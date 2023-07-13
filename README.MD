@@ -8,7 +8,7 @@ Página aonde se encontram os links das minhas redes sociais.<br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="## 📝 Licença">Licença</a>
+  <a href="#-Licença">Licença</a>
 </p>
 
 <p align="center">
