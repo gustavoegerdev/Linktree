@@ -15,6 +15,11 @@ Página aonde se encontram os links das minhas redes sociais.<br/>
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+
+<p align="center">
+ <a href="https://gustavoegerdev.github.io/Linktree/">Link direto</a>
+</p>
+
 <br>
 
 ## 🚀 Tecnologias
