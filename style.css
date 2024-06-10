@@ -47,8 +47,9 @@ body * {
 }
 
 #profile img {
-  width: 150px;
-  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  border-radius: 30%;
 }
 
 #profile p {
@@ -164,11 +165,11 @@ ul li a:hover {
 /* media queries */
 @media (min-width: 700px) {
   :root {
-    background: linear-gradient(to left, #4b9093, white);
+    background: linear-gradient(to left, #999999, #131313);
   }
 
   .light {
-    background: linear-gradient(to right, #4b9093, black);
+    background: linear-gradient(to right, #999999, #131313);
   }
 }
 
